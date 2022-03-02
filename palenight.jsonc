@@ -26,16 +26,16 @@
       "subtle-border": "fade(#FFFFFF, 4%)",
       "modal-overlay-color": "rgba(0,0,0,.5)",
       // graph colors
-      "graph-color-0": "#15a0bf",
-      "graph-color-1": "#0669f7",
-      "graph-color-2": "#8e00c2",
-      "graph-color-3": "#c517b6",
-      "graph-color-4": "#d90171",
-      "graph-color-5": "#cd0101",
-      "graph-color-6": "#f25d2e",
-      "graph-color-7": "#f2ca33",
-      "graph-color-8": "#7bd938",
-      "graph-color-9": "#2ece9d",
+      "graph-color-0": "#89ddff", // *
+      "graph-color-1": "#82aaff", // *
+      "graph-color-2": "#c792ea", // *
+      "graph-color-3": "#ab47bc", // *
+      "graph-color-4": "#ff5370", // *
+      "graph-color-5": "#f07178", // *
+      "graph-color-6": "#f78c6c", // *
+      "graph-color-7": "#ffcb6b", // *
+      "graph-color-8": "#c3e88d", // *
+      "graph-color-9": "#80cbc4", // *
       // text colors
       // values starting with . aren't added to the CSS, they're just variables
       ".text-color": "#eeffff", // *
@@ -72,7 +72,7 @@
       "droppable": "fade(@yellow, 30%)",
       "drop-target": "fade(@green, 50%)",
       "input--disabled": "fade(#000000, 10%)",
-      "link-color": "#40c5ec",
+      "link-color": "#80cbc4",  // *
       "form-control-focus": "@blue",
       // various app elements
       "scroll-thumb-border": "@app__bg0",
