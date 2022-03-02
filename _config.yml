@@ -1,16 +1,11 @@
 title: GitKraken Palenight Theme
-author:
-  name: Samuel Sandri
 description: A Palenight theme for GitKraken
-show_excerpts: false
+
+show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   social_links:
     github:  samuelsandri
-  skin: dark
-
-header_pages:
- - README.md
 
 theme: minima
 
