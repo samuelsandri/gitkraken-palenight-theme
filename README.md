@@ -2,6 +2,8 @@
 
 Inspired by [Material Theme UI Plugin](https://material-theme.com/) for JetBrains IDEs.
 
+*Still WIP*
+
 # How to install
 
 1. [Download the repo from GitHub](https://github.com/samuelsandri/gitkraken-palenight-theme)
