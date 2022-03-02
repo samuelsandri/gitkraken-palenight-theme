@@ -1,0 +1,1 @@
+# gitkraken-palenight-theme
